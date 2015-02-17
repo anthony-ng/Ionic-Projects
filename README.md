@@ -1,4 +1,4 @@
-## This is a collection of all my ionic apps.
+# This is a collection of all my ionic apps.
 
 ## List of ionic apps
 
